@@ -1893,7 +1893,11 @@ header .logo a {
   padding-bottom: 12rem;
 }
 #portfolio .folio-item {
-  padding: 0;
+  border-style: solid;
+  border-color: #cc005f;
+  border-width: 1px;
+  border-radius: 5px;
+  margin-top: 2px;
   position: relative;
   overflow: hidden;
 }
